@@ -20,4 +20,4 @@ A web-based portfolio showcasing my skills and projects.
 ---
 
 ## 🔗 Webiste Link
-[Digital Portfolio](https://jonelgarcia29.github.io/Portfolio/)
+[Mark Jonel Garcia | Portfolio](https://jonelgarcia29.github.io/Portfolio/)
