@@ -1,5 +1,5 @@
 # 💻 Digital Portfolio
-A web-based portfolio showcasing myt skills and projects.
+A web-based portfolio showcasing my skills and projects.
 
 ![screenshot](Projects/Portfolio.png) <!-- Replace with your own screenshot path -->
 
