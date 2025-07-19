@@ -7,9 +7,9 @@ A web-based portfolio showcasing my skills and projects.
 
 ## 📍 Navigation
 - 🏠 Home page
-- ℹ️ About me.
-- ⚙️ Projects
-- ☎️ Contact.
+- ℹ️ About me
+- ⚙️ Project
+- ☎️ Contact
 ---
 
 ## 🛠️ Technologies Used
